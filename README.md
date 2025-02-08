@@ -1,0 +1,2 @@
+# Digital Clock
+This is a sleek and functional digital clock built using HTML, CSS, and JavaScript. <br>The clock displays both the current time and date in a clean and modern format. <br>The time updates every second in real-time, while the date displays the current day, month, and year.
