@@ -37,3 +37,19 @@ h1 {
     font-size: 44px;
     color: rgb(83, 150, 232);
 }
+
+@media screen and (max-width: 600px) {
+    
+    #time {
+        font-size: 3.02rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    #currentday {
+        width: 100%;
+        position: relative;
+        left: 0;
+    }
+    
+}
